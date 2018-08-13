@@ -1,0 +1,14 @@
+.container {
+    vertical-align: top;
+    display: inline-block;
+    text-align: center;
+    width: 25%;
+}
+
+.image {
+    width: 50%;
+}
+
+.text {
+    background-color: aquamarine;
+}

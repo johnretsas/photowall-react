@@ -1,3 +1,9 @@
+A simple photo gallery app using React with Redux. 
+You can add pictures, delete them and make comments.
+
+Only front-end is implemented currently.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>

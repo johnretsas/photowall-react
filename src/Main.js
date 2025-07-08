@@ -4,12 +4,12 @@ import AddPhoto from './AddPhoto'
 import { Route , Link} from 'react-router-dom'
 import { removePost } from './actions'
 import Single from './Single'
+
 export class Main extends Component {
     constructor() {
         super();
     }
     render() {
-        //console.log(this.props);
         return (
 
             <div>
